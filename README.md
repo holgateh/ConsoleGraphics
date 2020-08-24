@@ -1,2 +1,2 @@
 # ConsoleGraphics
-A small console application (Windows) to output an image file to the screen.
+A small console application (Windows) to output an image file to the console.
