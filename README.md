@@ -1,2 +1,2 @@
 # ConsoleGraphics
-A tool to output an image file (e.g. .jpg or .png) to the console window.
+A small console application (Windows) to output an image file to the screen.
